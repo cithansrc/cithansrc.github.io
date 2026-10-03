@@ -1,9 +1,11 @@
-CITHAN S — PORTFOLIO
+CITHAN S - PORTFOLIO
 
-Open index.html in a modern browser, or serve this folder locally. No build or installation is required. Keep assets/ beside index.html, style.css and script.js.
+Live website: https://cithansrc.github.io/
 
-The portfolio uses a fixed project list in script.js; no GitHub API or filename probing is required. Images in assets/web are optimized copies of your original artwork. Original assets are preserved.
+Static GitHub Pages website. No build or installation required. Keep assets/ beside index.html, style.css and script.js.
 
-Contact uses your LinkedIn profile. Your supplied resume is assets/Cithan_CV.pdf.
+Seven projects with 49 gallery images and 12 videos. WebP images and two compressed Maya videos reduce upload size. Original source media remain in your original local project folder.
 
-All seven projects and their original gallery images/videos are included.
+The single-page resume is assets/Cithan_CV.pdf and includes the live portfolio address. Contact links use email and LinkedIn.
+
+Project details and media order are in script.js. Push or upload updated files to the main branch to publish changes. The noindex meta tag discourages search indexing; the website and repository remain public.
